@@ -8,7 +8,8 @@ export default function About() {
     {
       name: "High Chief Chizuroke Augustine Olisakwe",
       position: "CEO & Founder",
-      image: "https://static.readdy.ai/image/0af56103a01c8c8becda45c0a8f96350/4604cd688a0fdd715cb0ac571eb61789.jpeg",
+      // image: "https://static.readdy.ai/image/0af56103a01c8c8becda45c0a8f96350/4604cd688a0fdd715cb0ac571eb61789.jpeg",
+      image: "src/img/ceoimg.png",
       description: "15+ years experience in automotive import/export business"
     },
     {

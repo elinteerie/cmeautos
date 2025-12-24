@@ -8,11 +8,11 @@ export default function FAQs() {
   const faqs = [
     {
       question: 'How long does it take to receive my car after payment?',
-      answer: 'The delivery timeline typically ranges from 4-8 weeks after full payment confirmation. This includes vehicle sourcing (1-2 weeks), shipping from China (3-4 weeks), customs clearance (3-7 days), and final delivery to your location. We provide real-time updates throughout the entire process to keep you informed at every stage.'
+      answer: 'The delivery timeline typically ranges from 4-8 weeks after full payment confirmation. This includes vehicle sourcing, shipping from China, customs clearance , and final delivery to your location. We provide real-time updates throughout the entire process to keep you informed at every stage.'
     },
     {
       question: 'How much do I need to pay upfront?',
-      answer: 'We require a 30-50% deposit to initiate your vehicle order. This deposit secures your vehicle and covers initial procurement costs. The remaining balance is due before shipping. We offer flexible payment plans and accept various payment methods including bank transfers, online payments, and installment options for qualified customers.'
+      answer: 'We require a 80-100% deposit to initiate your vehicle order. This deposit secures your vehicle and covers initial procurement costs. The remaining balance is due before shipping. We offer flexible payment plans and accept various payment methods including bank transfers, online payments, and installment options for qualified customers.'
     },
     {
       question: 'What happens if the car I want is already in your showroom?',
