@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
 export default function About() {
   const teamMembers = [
     {
-      name: "Chief Chizuroke Augustine Olisakwe",
+      name: "High Chief Chizuroke Augustine Olisakwe",
       position: "CEO & Founder",
       image: "https://static.readdy.ai/image/0af56103a01c8c8becda45c0a8f96350/4604cd688a0fdd715cb0ac571eb61789.jpeg",
       description: "15+ years experience in automotive import/export business"
@@ -25,7 +25,8 @@ export default function About() {
       description: "Oversees Abuja operations and ensures exceptional customer service"
     },
     {
-      name: "Okonkwo Chisom Vincent (A.K.A Chicano)",
+      name: "Okonkwo Chisom Vincent",
+      nickname: "Chicano",
       position: "Chief Technology Officer",
       image: "https://static.readdy.ai/image/0af56103a01c8c8becda45c0a8f96350/9c8f7f248c10a5a072c5311d7880f4e3.png",
       description: "In charge of website and app development, manages all tech activities of CME AUTOS"
@@ -35,7 +36,7 @@ export default function About() {
   const offices = [
     {
       city: "Guangzhou, China",
-      address: "Room 1205, Tianhe Building, 123 Tianhe Road, Tianhe District, Guangzhou 510000",
+      address: "Shop 5215, Floor 5, GuoTai International Trade Market, No. 27, Guangyuan West Road, Yuexiu District, Guangzhou, China",
       phone: "+86 20 8888 9999",
       email: "china@cmeautos.com"
     },
