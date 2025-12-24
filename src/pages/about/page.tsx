@@ -8,8 +8,8 @@ export default function About() {
     {
       name: "High Chief Chizuroke Augustine Olisakwe",
       position: "CEO & Founder",
-      // image: "https://static.readdy.ai/image/0af56103a01c8c8becda45c0a8f96350/4604cd688a0fdd715cb0ac571eb61789.jpeg",
-      image: "src/img/ceoimg.png",
+      image: "https://static.readdy.ai/image/0af56103a01c8c8becda45c0a8f96350/4604cd688a0fdd715cb0ac571eb61789.jpeg",
+      // image: "src/img/ceoimg.png",
       description: "15+ years experience in automotive import/export business"
     },
     {
@@ -145,7 +145,7 @@ export default function About() {
             </div>
             <div>
               <img 
-                src="https://static.readdy.ai/image/0af56103a01c8c8becda45c0a8f96350/4604cd688a0fdd715cb0ac571eb61789.jpeg"
+                src="src/img/ceoimg.png"
                 alt="CME AUTOS Team Member"
                 className="rounded-lg shadow-lg object-cover object-top w-full h-96"
               />
@@ -160,7 +160,7 @@ export default function About() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div>
               <img 
-                src="https://static.readdy.ai/image/0af56103a01c8c8becda45c0a8f96350/b91a3ef74de706eb444647af3bb774b8.jpeg"
+                src="src/img/ceoimg.png"
                 alt="CME AUTOS Leadership Team"
                 className="rounded-lg shadow-lg object-cover object-top w-full h-96"
               />
