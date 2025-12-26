@@ -145,7 +145,7 @@ export default function About() {
             </div>
             <div>
               <img 
-                src="src/img/ceoimg.png"
+                src="/img/ceoimg.png"
                 alt="CME AUTOS Team Member"
                 className="rounded-lg shadow-lg object-cover object-top w-full h-96"
               />
