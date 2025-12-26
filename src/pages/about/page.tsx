@@ -160,7 +160,7 @@ export default function About() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div>
               <img 
-                src="src/img/ceoimg.png"
+                src="https://ibb.co/9LtZYPw"
                 alt="CME AUTOS Leadership Team"
                 className="rounded-lg shadow-lg object-cover object-top w-full h-96"
               />
