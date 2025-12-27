@@ -1,6 +1,11 @@
+
 import Header from '../../components/feature/Header';
 import Footer from '../../components/feature/Footer';
 import Button from '../../components/base/Button';
+import ceoimg from '../../img/ceoimg.png';
+
+<img src={logo} alt="Logo" />
+
 import { Link } from 'react-router-dom';
 
 export default function About() {
@@ -145,7 +150,7 @@ export default function About() {
             </div>
             <div>
               <img 
-                src="/img/ceoimg.png"
+                src={ceoimg}
                 alt="CME AUTOS Team Member"
                 className="rounded-lg shadow-lg object-cover object-top w-full h-96"
               />
