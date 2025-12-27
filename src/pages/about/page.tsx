@@ -13,7 +13,7 @@ export default function About() {
       name: "High Chief Chizuroke Augustine Olisakwe",
       position: "CEO & Founder",
       image: "https://static.readdy.ai/image/0af56103a01c8c8becda45c0a8f96350/4604cd688a0fdd715cb0ac571eb61789.jpeg",
-      description: "15+ years experience in automotive import/export business"
+      description: "10+ years experience in automotive import/export business"
     },
     {
       name: "ASHEMA TOCHUKWU VITUS",
@@ -287,10 +287,11 @@ export default function About() {
             </div>
             <div>
               <div className="text-4xl md:text-5xl font-bold text-yellow-500 mb-2">6</div>
+     
               <div className="text-gray-300">Office Locations</div>
             </div>
             <div>
-              <div className="text-4xl md:text-5xl font-bold text-yellow-500 mb-2">50+</div>
+              <div className="text-4xl md:text-5xl font-bold text-yellow-500 mb-2">10+</div>
               <div className="text-gray-300">Countries Served</div>
             </div>
             <div>

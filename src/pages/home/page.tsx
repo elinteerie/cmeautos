@@ -220,15 +220,15 @@ export default function Home() {
         <div className="absolute bottom-4 sm:bottom-8 md:bottom-12 left-1/2 transform -translate-x-1/2 z-20 w-full px-4">
           <div className="flex flex-wrap justify-center gap-3 sm:gap-4 md:gap-6 lg:gap-8 text-white max-w-4xl mx-auto">
             <div className="bg-white/20 backdrop-blur-xl rounded-xl sm:rounded-2xl p-3 sm:p-4 md:p-6 border border-white/30 shadow-2xl hover:bg-white/25 transition-all duration-300 min-w-[100px] sm:min-w-[120px] md:min-w-[140px] text-center flex-1 max-w-[140px]">
-              <div className="text-xl sm:text-2xl md:text-3xl font-bold text-yellow-400 mb-1">5000+</div>
+              <div className="text-xl sm:text-2xl md:text-3xl font-bold text-yellow-400 mb-1">500+</div>
               <div className="text-xs sm:text-sm font-medium">Premium Vehicles</div>
             </div>
             <div className="bg-white/20 backdrop-blur-xl rounded-xl sm:rounded-2xl p-3 sm:p-4 md:p-6 border border-white/30 shadow-2xl hover:bg-white/25 transition-all duration-300 min-w-[100px] sm:min-w-[120px] md:min-w-[140px] text-center flex-1 max-w-[140px]">
-              <div className="text-xl sm:text-2xl md:text-3xl font-bold text-yellow-400 mb-1">15+</div>
+              <div className="text-xl sm:text-2xl md:text-3xl font-bold text-yellow-400 mb-1">10+</div>
               <div className="text-xs sm:text-sm font-medium">Years Excellence</div>
             </div>
             <div className="bg-white/20 backdrop-blur-xl rounded-xl sm:rounded-2xl p-3 sm:p-4 md:p-6 border border-white/30 shadow-2xl hover:bg-white/25 transition-all duration-300 min-w-[100px] sm:min-w-[120px] md:min-w-[140px] text-center flex-1 max-w-[140px]">
-              <div className="text-xl sm:text-2xl md:text-3xl font-bold text-yellow-400 mb-1">50+</div>
+              <div className="text-xl sm:text-2xl md:text-3xl font-bold text-yellow-400 mb-1">15+</div>
               <div className="text-xs sm:text-sm font-medium">Countries Served</div>
             </div>
           </div>
