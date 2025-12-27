@@ -1,7 +1,7 @@
 import Header from '../../components/feature/Header';
 import Footer from '../../components/feature/Footer';
 import Button from '../../components/base/Button';
-import ceoimg from '../../assets/ceoimg.png';
+// import ceoimg from '../../assets/ceoimg.png';
 import ceoimg1 from '../../assets/ceoimg1.png';
 // import { Link } from 'react-router-dom';
 
@@ -13,6 +13,7 @@ export default function About() {
       name: "High Chief Chizuroke Augustine Olisakwe",
       position: "CEO & Founder",
       image: "https://static.readdy.ai/image/0af56103a01c8c8becda45c0a8f96350/4604cd688a0fdd715cb0ac571eb61789.jpeg",
+      // image: "ceoimg",
       description: "10+ years experience in automotive import/export business"
     },
     {
@@ -116,7 +117,7 @@ export default function About() {
             <div>
               {/* FIXED: Used the imported variable 'ceoimg' instead of string path */}
               <img 
-                src={ceoimg}
+                src={ceoimg1}
                 alt="CME AUTOS Team Member"
                 className="rounded-lg shadow-lg object-cover object-top w-full h-96"
               />
