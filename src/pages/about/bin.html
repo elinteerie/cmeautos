@@ -1,11 +1,13 @@
+
 import Header from '../../components/feature/Header';
 import Footer from '../../components/feature/Footer';
 import Button from '../../components/base/Button';
 import ceoimg from '../../assets/ceoimg.png';
 import ceoimg1 from '../../assets/ceoimg1.png';
-// import { Link } from 'react-router-dom';
 
-// REMOVED: <img src={logo} alt="Logo" /> (This was causing a syntax error outside the component)
+<img src={logo} alt="Logo" />
+
+import { Link } from 'react-router-dom';
 
 export default function About() {
   const teamMembers = [
@@ -13,6 +15,7 @@ export default function About() {
       name: "High Chief Chizuroke Augustine Olisakwe",
       position: "CEO & Founder",
       image: "https://static.readdy.ai/image/0af56103a01c8c8becda45c0a8f96350/4604cd688a0fdd715cb0ac571eb61789.jpeg",
+      // image: "src/img/ceoimg.png",
       description: "15+ years experience in automotive import/export business"
     },
     {
@@ -34,6 +37,39 @@ export default function About() {
       position: "Chief Technology Officer",
       image: "https://static.readdy.ai/image/0af56103a01c8c8becda45c0a8f96350/9c8f7f248c10a5a072c5311d7880f4e3.png",
       description: "In charge of website and app development, manages all tech activities of CME AUTOS"
+    }
+  ];
+
+  const offices = [
+    {
+      city: "Guangzhou, China",
+      address: "Shop 5215, Floor 5, GuoTai International Trade Market, No. 27, Guangyuan West Road, Yuexiu District, Guangzhou, China",
+      phone: "+86 20 8888 9999",
+      email: "china@cmeautos.com"
+    },
+    {
+      city: "Lagos, Nigeria",
+      address: "Plot No 3321 Along \"D\" Close, 2nd Avenue, Festac Town, Lagos State",
+      phone: "+234 1 234 5678",
+      email: "lagos@cmeautos.com"
+    },
+    {
+      city: "Abuja, Nigeria",
+      address: "FABUZILO Mall, Suite 404, 6th Avenue Gwarinpa Abuja",
+      phone: "+234 9 876 5432",
+      email: "abuja@cmeautos.com"
+    },
+    {
+      city: "Onitsha, Anambra State",
+      address: "No. 17 ILODIBE service road AWADA, MCC junction Pedestrian bridge Awada, enclosing (ILODIBE MOTORS LTD) Upper Iweka, Onitsha",
+      phone: "+234 803 XXX XXXX",
+      email: "onitsha@cmeautos.com"
+    },
+    {
+      city: "Nnewi",
+      address: "No.1 shop at Innoson Plaza close to Organizer filling station Nnewi roundabout",
+      phone: "+234 803 XXX XXXX",
+      email: "nnewi@cmeautos.com"
     }
   ];
 
@@ -114,9 +150,8 @@ export default function About() {
               </div>
             </div>
             <div>
-              {/* FIXED: Used the imported variable 'ceoimg' instead of string path */}
               <img 
-                src={ceoimg}
+                src="/ceoimg.png"
                 alt="CME AUTOS Team Member"
                 className="rounded-lg shadow-lg object-cover object-top w-full h-96"
               />
@@ -130,9 +165,8 @@ export default function About() {
         <div className="container mx-auto px-4">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div>
-               {/* FIXED: Used the imported variable 'ceoimg1' instead of string path */}
               <img 
-                src={ceoimg1}
+                src="/ceoimg1.png"
                 alt="CME AUTOS Leadership Team"
                 className="rounded-lg shadow-lg object-cover object-top w-full h-96"
               />
