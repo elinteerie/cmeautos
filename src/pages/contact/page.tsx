@@ -121,7 +121,7 @@ export default function Contact() {
       icon: "ri-phone-line",
       title: "Call Us",
       description: "Speak directly with our experts",
-      contact: "+234 1 234 5678",
+      contact: "+234 707 920 8913",
       action: "Call Now",
       image: "https://readdy.ai/api/search-image?query=Professional%20customer%20service%20representative%20answering%20phone%20call%20in%20modern%20office%2C%20friendly%20automotive%20consultant%2C%20business%20communication%2C%20customer%20support&width=300&height=200&seq=40&orientation=landscape"
     },
@@ -145,7 +145,7 @@ export default function Contact() {
       icon: "ri-whatsapp-line",
       title: "WhatsApp",
       description: "Message us on WhatsApp",
-      contact: "+234 1 234 5678", 
+      contact: "+234 707 920 8913", 
       action: "Message Us",
       image: "https://readdy.ai/api/search-image?query=WhatsApp%20business%20messaging%20on%20mobile%20phone%2C%20instant%20messaging%20for%20business%2C%20mobile%20communication%2C%20modern%20business%20chat%20interface&width=300&height=200&seq=43&orientation=landscape"
     }
