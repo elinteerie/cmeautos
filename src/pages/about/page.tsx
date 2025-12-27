@@ -2,7 +2,8 @@
 import Header from '../../components/feature/Header';
 import Footer from '../../components/feature/Footer';
 import Button from '../../components/base/Button';
-import ceoimg from '../../img/ceoimg.png';
+import ceoimg from '../../assets/ceoimg.png';
+import ceoimg1 from '../../assets/ceoimg1.png';
 
 <img src={logo} alt="Logo" />
 
@@ -150,7 +151,7 @@ export default function About() {
             </div>
             <div>
               <img 
-                src={ceoimg}
+                src="/ceoimg.png"
                 alt="CME AUTOS Team Member"
                 className="rounded-lg shadow-lg object-cover object-top w-full h-96"
               />
@@ -165,7 +166,7 @@ export default function About() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div>
               <img 
-                src="/img/ceoimg1.png"
+                src="/ceoimg1.png"
                 alt="CME AUTOS Leadership Team"
                 className="rounded-lg shadow-lg object-cover object-top w-full h-96"
               />
