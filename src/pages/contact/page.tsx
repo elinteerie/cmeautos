@@ -84,8 +84,8 @@ export default function Contact() {
     },
     {
       city: "Lagos, Nigeria",
-      address: "Plot No 3321 Along \"D\" Close, 2nd Avenue, Festac Town, Lagos State",
-      phone: "+234 816 973 6006",
+      address: "21  Road Junction by 2nd Avenue, Festac Town, Lagos State",
+      phone: "+234 805 560 2747",
       email: "lagos@cmeautos.com",
       hours: "Mon-Fri: 8:00 AM - 5:00 PM (WAT)",
       image: "https://readdy.ai/api/search-image?query=Modern%20office%20building%20in%20Lagos%20Nigeria%2C%20contemporary%20commercial%20architecture%2C%20professional%20business%20district%2C%20urban%20development%2C%20glass%20and%20steel%20construction&width=400&height=300&seq=26&orientation=landscape"

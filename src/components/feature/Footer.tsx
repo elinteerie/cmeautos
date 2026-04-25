@@ -28,7 +28,7 @@ export default function Footer() {
     {
       city: 'Lagos, Nigeria',
       address: 'Plot No 3321 Along "D" Close, 2nd Avenue, Festac Town, lagos, Nigeria',
-      phone: '+234 816 973 6006',
+      phone: '+234 805 560 2747',
     },
     {
       city: 'Abuja, Nigeria',
