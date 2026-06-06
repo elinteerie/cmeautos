@@ -77,7 +77,7 @@ export default function Contact() {
     {
       city: "Guangzhou, China",
       address: "Room 1205, Tianhe Building, 123 Tianhe Road, Tianhe District, Guangzhou 510000",
-      phone: "+234 707 920 8913",
+      // phone: "+234 707 920 8913",
       email: "china@cmeautos.com",
       hours: "Mon-Fri: 9:00 AM - 6:00 PM (CST)",
       image: "https://readdy.ai/api/search-image?query=Modern%20office%20building%20in%20Guangzhou%20China%2C%20contemporary%20commercial%20architecture%2C%20glass%20facade%20building%2C%20professional%20business%20district%2C%20urban%20skyline%20with%20modern%20towers&width=400&height=300&seq=25&orientation=landscape"
@@ -85,7 +85,7 @@ export default function Contact() {
     {
       city: "Lagos, Nigeria",
       address: "21  Road Junction by 2nd Avenue, Festac Town, Lagos State",
-      phone: "+234 805 560 2747",
+      // phone: "+234 805 560 2747",
       email: "lagos@cmeautos.com",
       hours: "Mon-Fri: 8:00 AM - 5:00 PM (WAT)",
       image: "https://readdy.ai/api/search-image?query=Modern%20office%20building%20in%20Lagos%20Nigeria%2C%20contemporary%20commercial%20architecture%2C%20professional%20business%20district%2C%20urban%20development%2C%20glass%20and%20steel%20construction&width=400&height=300&seq=26&orientation=landscape"
@@ -93,7 +93,7 @@ export default function Contact() {
     {
       city: "Abuja, Nigeria",
       address: "FABUZILO Mall, Suite 404, 6th Avenue Gwarinpa Abuja",
-      phone: "+234 703 393 5221",
+      // phone: "+234 703 393 5221",
       email: "abuja@cmeautos.com",
       hours: "Mon-Fri: 8:00 AM - 5:00 PM (WAT)",
       image: "https://readdy.ai/api/search-image?query=Modern%20office%20building%20in%20Abuja%20Nigeria%2C%20contemporary%20commercial%20architecture%2C%20professional%20business%20center%2C%20capital%20city%20development%2C%20modern%20urban%20architecture&width=400&height=300&seq=27&orientation=landscape"
@@ -101,7 +101,7 @@ export default function Contact() {
     {
       city: "Onitsha, Anambra State",
       address: "No. 17 ILODIBE service road AWADA, MCC junction Pedestrian bridge Awada, enclosing (ILODIBE MOTORS LTD) Upper Iweka, Onitsha",
-      phone: "+234 803 XXX XXXX",
+      // phone: "+234 803 XXX XXXX",
       email: "onitsha@cmeautos.com",
       hours: "Mon-Fri: 8:00 AM - 5:00 PM (WAT)",
       image: "https://readdy.ai/api/search-image?query=Modern%20automotive%20showroom%20in%20Onitsha%20Nigeria%2C%20professional%20car%20dealership%20building%2C%20commercial%20vehicle%20center%2C%20contemporary%20business%20facility&width=400&height=300&seq=28&orientation=landscape"
