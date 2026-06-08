@@ -23,27 +23,27 @@ export default function Footer() {
     {
       city: 'Guangzhou, China',
       address: 'Shop 5215, Floor 5, GuoTai International Trade Market, No. 27, Guangyuan West Road, Yuexiu District, Guangzhou, China',
-      phone: '+234 707 920 8913',
+      // phone: '+234 707 920 8913',
     },
     {
       city: 'Lagos, Nigeria',
       address: 'Plot No 3321 Along "D" Close, 2nd Avenue, Festac Town, lagos, Nigeria',
-      phone: '+234 805 560 2747',
+      // phone: '+234 805 560 2747',
     },
     {
       city: 'Abuja, Nigeria',
       address: 'FABUZILO Mall, Suite 404, 6th Avenue Gwarinpa, Abuja, Nigeria',
-      phone: '+234 703 393 5221',
+      // phone: '+234 703 393 5221',
     },
     {
       city: 'Onitsha, Anambra',
       address: 'No. 17 ILODIBE service road AWADA, MCC junction, Upper Iweka, Onitsha, Anambra, Nigeria',
-      phone: '+234 803 XXX XXXX',
+      // phone: '+234 803 XXX XXXX',
     },
     {
       city: 'Nnewi',
       address: 'No.1 shop at Innoson Plaza, Nnewi roundabout, Nnewi, Anambra, Nigeria',
-      phone: '+234 803 XXX XXXX',
+      // phone: '+234 803 XXX XXXX',
     },
   ];
 
